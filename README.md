@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects where I could grow up
 - 🤔 I’m looking for help with a new job
 - 💬 Ask me about everything that want to know about me
-- 📫 How to reach me: irenegonzalezpinilla@gmail.com
+- 📫 How to reach me: irenegonzalezpinilla@gmail.com / https://www.linkedin.com/in/iregonzalez/
 - ⚡ Fun fact: I love create things with my hands and know how things are made
 
 
