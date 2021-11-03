@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React and perfecting my css skills
 - 👯 I’m looking to collaborate on projects where I could grow up
 - 💬 Ask me about everything that want to know about me and my work
-- 📫 How to reach me: irenegonzalezpinilla@gmail.com / https://www.linkedin.com/in/iregonzalez/
+- 📫 How to reach me: [EMAIL](irenegonzalezpinilla@gmail.com) / [LINKEDIN](https://www.linkedin.com/in/iregonzalez/)
 - ⚡ Fun fact: I love create things with my hands and know how things are made
 
 
