@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: irenegonzalezpinilla@gmail.com / [LINKEDIN](https://www.linkedin.com/in/iregonzalez/)
 - ⚡ Fun fact: I love create things with my hands and know how things are made
 - 👀 So far my best project has been [RICK & MORTY](https://github.com/IreGonzalez/modulo-3-evaluacion-final-IreGonzalez)
-
-
-
-I am working on it so I ask for a little patience to finish it. Thanks
